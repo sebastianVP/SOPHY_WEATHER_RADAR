@@ -25,3 +25,23 @@
 	$ cd  /home/soporte
 
 	$ mkdir WR_SCHAIN_24APRIL2024
+
+- En esta nueva carpeta clonamos el repositorio de Signal Chain:
+
+	$ git clone http://intranet.igp.gob.pe:8082/schain
+
+- Escogemos el branch correspondiente al desarrollo de software de SOPHY.
+
+	$ cd schain
+
+	$ git status 
+
+	(SOPHY_24APRIL2024) soporte@CI-91:~/WR_SCHAIN_24APRIL2024/schain$ git status
+	On branch master
+	Your branch is up to date with 'origin/master'.
+	nothing to commit, working tree clean
+
+	$ git checkout v3.0-WR
+
+	
+
