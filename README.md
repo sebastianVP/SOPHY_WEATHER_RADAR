@@ -19,3 +19,9 @@
 - Activamos el entorno virtual:
 
 	$ conda activate SOPHY_24APRIL2024
+
+-  Hacemos ahora la descarga del repositorio de Signal Chain, creamos una carpeta o directorio de trabajo, nos ubicamos en el folder original.
+
+	$ cd  /home/soporte
+
+	$ mkdir WR_SCHAIN_24APRIL2024
