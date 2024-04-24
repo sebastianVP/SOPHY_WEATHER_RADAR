@@ -5,10 +5,11 @@
   $ git clone git@github.com:sebastianVP/SOPHY_WEATHER_RADAR.git
 
 
-- Primero necesitamos crear un entorno virtual, nos ubicamos en el directorio principal aqui crearemos el entorno virutal:
+- Necesitamos ahora  crear un entorno virtual, nos ubicamos en el directorio principal aqui crearemos el entorno virutal:
 
   $ pwd
-	/home/soporte/
+
+  /home/soporte/
 
 - Creamos el entorno virtual:
 
