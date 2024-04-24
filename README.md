@@ -17,4 +17,5 @@
 
 
 - Activamos el entorno virtual:
+
 	$ conda activate SOPHY_24APRIL2024
