@@ -37,16 +37,23 @@
 	$ git status 
 
 	(SOPHY_24APRIL2024) soporte@CI-91:~/WR_SCHAIN_24APRIL2024/schain$ git status
-	On branch master
-	Your branch is up to date with 'origin/master'.
-	nothing to commit, working tree clean
+	
+        On branch master
+	
+        Your branch is up to date with 'origin/master'.
+	
+        nothing to commit, working tree clean
 
 	$ git checkout v3.0-WR
 
 	(SOPHY_24APRIL2024) soporte@CI-91:~/WR_SCHAIN_24APRIL2024/schain$ git checkout v3.0-WR 
-	Switched to branch 'v3.0-WR'
-	(SOPHY_24APRIL2024) soporte@CI-91:~/WR_SCHAIN_24APRIL2024/schain$ git status
-	On branch v3.0-WR
-	nothing to commit, working tree clean
+	
+        Switched to branch 'v3.0-WR'
+	
+        (SOPHY_24APRIL2024) soporte@CI-91:~/WR_SCHAIN_24APRIL2024/schain$ git status
+	
+        On branch v3.0-WR
+	
+        nothing to commit, working tree clean
 	
 
