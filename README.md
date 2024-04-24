@@ -129,7 +129,7 @@
 
 	$ sudo make install
 
-	$ sudo ldcondif
+	$ sudo ldconfig
 
 - Para probar toda la instalacion nos ubicamos en el siguiente directorio y ejecutamos el siguiente comando:
 
