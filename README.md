@@ -1,5 +1,9 @@
 # REPOSITORIO DE INSTALACION DEL RADAR METEOROLOGICO SOPHY
 
+La carpeta de instalacion de Signal Chain y digital RF es:
+
+/home/soporte/WR_SCHAIN_24APRIL2024
+
 - Primero podemos descargar esta guia para seguir el paso a paso y el proceso de instalacion, desde el repositorio de github:
  
   $ git clone git@github.com:sebastianVP/SOPHY_WEATHER_RADAR.git
